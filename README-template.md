@@ -13,6 +13,14 @@ Users should be able to:
 
 ### Screenshot
 
+The desktop version:
+
+![desktop-version](https://user-images.githubusercontent.com/67519040/161862753-fd15267f-b185-4e7f-b9bb-e45796c200aa.PNG)
+
+
+The mobile version
+
+![mobile-version](https://user-images.githubusercontent.com/67519040/161862772-4a36f9a8-f450-4604-be76-b8bfe3b9ffd0.PNG)
 
 
 ## My process
