@@ -1,0 +1,12 @@
+.attribution{
+    position: relative;
+    bottom: -50%;
+    width: 100%;
+    text-align: center;
+    background-color: hsl(244, 38%, 16%) ;;
+    color: white
+}
+
+.attribution a{
+    text-decoration: none;
+}
